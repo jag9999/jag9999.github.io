@@ -1,1 +1,33 @@
+/* Custom background color for the header */
+header {
+    background-color: #333; 
+    color: #fff; 
+    padding: 20px;
+    text-align: center;
+}
+
+/* Customize links */
+a {
+    color: #3498db; 
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2980b9; 
+}
+
+/* Content and text adjustments */
+body {
+    font-family: 'Arial', sans-serif;
+    color: #444;
+    line-height: 1.6;
+}
+
+/* Footer styling */
+footer {
+    background-color: #f4f4f4;
+    color: #666;
+    text-align: center;
+    padding: 10px 0;
+}
 
