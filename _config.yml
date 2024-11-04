@@ -3,6 +3,8 @@ title: Installing ArchLinux via VirtualBox
 description: This page explains my documentation of the installation process for installing ArchLinux.
 
 markdown: kramdown
-
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
 include:
 - assets/css/style.css
