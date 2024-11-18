@@ -21,7 +21,8 @@ mkdir docker-project
 cd docker-project
 
 Then, I nano'd into a docker-compose.yml file so that I could start with adding the content for the application I chose, which will be WordPress
-![[docker wordpress nano 1.png]]
+
+![docker wordpress nano](https://github.com/user-attachments/assets/ede99983-7de6-4972-9df9-1dd11740b4dd)
 
 After filling out the proper information needed inside the yml file for the WordPress application, I saved the information that was documented into the file by doing Ctrl+o and then saving it and Ctrl+x to get out of the program
 
@@ -41,7 +42,8 @@ http://localhost:8000/
 
 When I type this URL into my local VM browser, it pulls up my chosen application, which is WordPress
 
-![[WordPress Docker .png]]
+![WordPress Docker ](https://github.com/user-attachments/assets/a2ae5049-5742-47ba-8ee8-62c6aff80ffc)
+
 
 
 
