@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: Installing ArchLinux via VirtualBox
-description: This page explains my documentation of the installation process for installing ArchLinux.
+title: My Personal projects
+description: This github page is in the works, and will currently display projects I have done
 
 markdown: kramdown
 plugins:
