@@ -60,15 +60,6 @@ Now, with connecting it to my PC, I installed Wireguard from the internet. Choos
 
 After installing Wireguard, I imported the tunnel with my config file and then clicked activate to activate the VPN. To show this worked, I will show the IP before and after.
 
-![Before Wireguard IP](https://github.com/user-attachments/assets/d0a7ad19-2602-4efa-a01e-8fe9018dda65)
+![Before Wireguard IP](https://github.com/user-attachments/assets/78e4cfef-3a9b-4bb8-b04b-0a59f18f00ee)
 
 ![After Wireguard IP](https://github.com/user-attachments/assets/77b695a5-14ff-432a-b13f-7298e5f21d03)
-
-
-
-
-
-
-
-
-
