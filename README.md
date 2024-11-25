@@ -4,3 +4,4 @@
 
 - [Arch Linux Installation (with Documentation)](Installing Arch Linux VirtualBox.md)
 - [Docker Container Documentation](Docker Documentation.md)
+- [Wireguard Installation](Wireguard.md)
