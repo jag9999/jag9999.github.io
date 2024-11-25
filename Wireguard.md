@@ -37,6 +37,9 @@ nano docker-compose.yml
 
 Inside this docker file contains the needed contents for Wireguard. These contents can vary based on the version you install, but I chose to fulfill the yml file with the contents I will show below. When filling out your server URL, make sure you put your IP to your droplet.
 
+![Wireguard compose contents](https://github.com/user-attachments/assets/84a596c8-bbed-4233-9e83-28187e8a5da0)
+
+
 Once this was complete, I ran the docker container 
 
 docker-compose up -d
@@ -56,6 +59,13 @@ I then added the config file to the Wireguard app through my phone, were I was p
 Now, with connecting it to my PC, I installed Wireguard from the internet. Choose the version of Wireguard that is based on your Operating System. Since mine is Windows, I chose windows.
 
 After installing Wireguard, I imported the tunnel with my config file and then clicked activate to activate the VPN. To show this worked, I will show the IP before and after.
+
+![Before Wireguard IP](https://github.com/user-attachments/assets/d0a7ad19-2602-4efa-a01e-8fe9018dda65)
+
+![After Wireguard IP](https://github.com/user-attachments/assets/77b695a5-14ff-432a-b13f-7298e5f21d03)
+
+
+
 
 
 
