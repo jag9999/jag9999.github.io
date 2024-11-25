@@ -56,6 +56,10 @@ Once the config file appeared on my desktop, I then shared it to myself through 
 
 I then added the config file to the Wireguard app through my phone, were I was prompted to allow the config file, and then I was able to connect to the VPN.
 
+![Allowing configuration phone](https://github.com/user-attachments/assets/e1136e0b-3ba7-443c-901d-0c15b4ab3411)
+
+![Connection via phone](https://github.com/user-attachments/assets/c36d7dc9-bcb8-4a75-8239-458f187a7980)
+
 Now, with connecting it to my PC, I installed Wireguard from the internet. Choose the version of Wireguard that is based on your Operating System. Since mine is Windows, I chose windows.
 
 After installing Wireguard, I imported the tunnel with my config file and then clicked activate to activate the VPN. To show this worked, I will show the IP before and after.
