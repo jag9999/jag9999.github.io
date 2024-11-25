@@ -48,7 +48,7 @@ Now, for connecting Wireguard to my PC, I used a secure copy to transfer the fil
 
 Transferring files for the PC. I am choosing my Desktop folder
 
-scp root@192.241.150.62:~/wireguard/config/peer1/peer1.conf ~/Desktop/peer1.conf
+scp root@YOURIP:~/wireguard/config/peer1/peer1.conf ~/Desktop/peer1.conf
 
 After running this command, I am then prompted again for authenticity, and I type yes, and then type in my password to the droplet
 
