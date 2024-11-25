@@ -1,7 +1,7 @@
 
 This documentation will explain how I used DigitalOcean to install Wireguard with Docker
 
-Firstly, I navigated to [DigitalOcean](DigitalOcean.com) and signed up for a new account with a URL that was given from the professor, which gives us $200 credit for 2 months of usage.
+Firstly, I navigated to [DigitalOcean](https://www.digitalocean.com) and signed up for a new account with a URL that was given from the professor, which gives us $200 credit for 2 months of usage.
 
 After this, I created a Ubuntu 24.04 Droplet and selected the $8/month option under the "Premium Intel" option.
 
